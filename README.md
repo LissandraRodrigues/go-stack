@@ -21,6 +21,7 @@
   <a href="#dart-sobre"> Sobre </a> &#xa0; | &#xa0; 
   <a href="#muscle-projetos"> Projetos </a> &#xa0; | &#xa0; 
   <a href="#running-projetos-extras"> Projetos extras </a> &#xa0; | &#xa0; 
+  <a href="#rocket-next-level-week"> Next Level Week </a> &#xa0; | &#xa0; 
   <a href="#books-onde-aprender-mais"> Onde aprender </a> &#xa0; | &#xa0;
   <a href="#unlock-licença"> Licença </a> &#xa0; | &#xa0;
   <a href="https://www.linkedin.com/in/luiza-lissandra/" target="_blank"> Desenvolvedora </a>
@@ -49,6 +50,14 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 Estes projetos foram desenvolvidos através dos conteúdos gratuitos da Rocketseat e neles eu indico onde aprendi sobre.
 
 - <a href='https://github.com/LissandraRodrigues/API'> API </a>
+
+## :rocket: Next Level Week ##
+
+Projetos desenvolvidos nas edições do evento <a href='https://nextlevelweek.com/'> Next Level Week</a> realizado pela <a href='https://rocketseat.com.br/'>Rocketseat. </a>
+
+- <a href='https://github.com/LissandraRodrigues/aplicacao_web_ecoleta'> Ecoleta </a>
+- <a href='https://github.com/LissandraRodrigues/proffy_aplicacao'> Proffy </a>
+- <a href='https://github.com/LissandraRodrigues/happy_aplicacao'> Happy </a>
 
 ## :books: Onde aprender mais ##
 
