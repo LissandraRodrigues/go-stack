@@ -10,9 +10,9 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/progress-17%25-brightgreen.svg" alt="PRs Welcome">
-   <img src = "https://img.shields.io/github/issues/LissandraRodrigues/API" />
-   <img src = "https://img.shields.io/github/forks/LissandraRodrigues/API" />
-   <img src = "https://img.shields.io/github/stars/LissandraRodrigues/API" />
+   <img src = "https://img.shields.io/github/issues/LissandraRodrigues/go-stack" />
+   <img src = "https://img.shields.io/github/forks/LissandraRodrigues/go-stack" />
+   <img src = "https://img.shields.io/github/stars/LissandraRodrigues/go-stack" />
    <img src = "https://camo.githubusercontent.com/ceb264b271ea36fdd2755c5ce616adcd4e5ea503de3a8b5aa0770a71c89cfabd/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6c756b656d6f72616c65732f726f636b657473686f65732d72656163742d6e61746976652e737667" />
 	
 </p>	
