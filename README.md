@@ -9,7 +9,7 @@
 <h1 align="center"> Minha jornada no GoStack </h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/progress-10%25-brightgreen.svg" alt="PRs Welcome">
+   <img src="https://img.shields.io/badge/progress-17%25-brightgreen.svg" alt="PRs Welcome">
    <img src = "https://img.shields.io/github/issues/LissandraRodrigues/API" />
    <img src = "https://img.shields.io/github/forks/LissandraRodrigues/API" />
    <img src = "https://img.shields.io/github/stars/LissandraRodrigues/API" />
@@ -44,6 +44,7 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 - <a href='https://github.com/LissandraRodrigues/conceitos-nodejs'> Back-end com NodeJS </a>
 - <a href='https://github.com/LissandraRodrigues/conceitos-reactjs'> Front-end com ReactJS </a>
 - <a href='https://github.com/LissandraRodrigues/conceitos-react-native'> Mobile com React Native </a>
+- <a href='https://github.com/LissandraRodrigues/fundamentos-nodejs'> Fundamentos do NodeJS </a>
 
 ## :running: Projetos extras ##
 
