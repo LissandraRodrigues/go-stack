@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="#dart-sobre"> Sobre </a> &#xa0; | &#xa0; 
-  <a href="#muscle-projetos"> Projetos </a> &#xa0; | &#xa0; 
+  <a href="#muscle-jornada-completa"> Jornada completa </a> &#xa0; | &#xa0; 
   <a href="#running-projetos-extras"> Projetos extras </a> &#xa0; | &#xa0; 
   <a href="#rocket-next-level-week"> Next Level Week </a> &#xa0; | &#xa0; 
   <a href="#books-onde-aprender-mais"> Onde aprender </a> &#xa0; | &#xa0;
@@ -39,12 +39,62 @@ Este Readme foi criado para reunir todos os projetos que fiz até agora no <a hr
 
 Além de trazer referências de onde você pode estudar gratuitamente para também chegar ao próximo nível :rocket:
 
-## :muscle: Projetos ##
+## :muscle: Jornada completa ##
 
-- <a href='https://github.com/LissandraRodrigues/conceitos-nodejs'> Back-end com NodeJS </a>
-- <a href='https://github.com/LissandraRodrigues/conceitos-reactjs'> Front-end com ReactJS </a>
-- <a href='https://github.com/LissandraRodrigues/conceitos-react-native'> Mobile com React Native </a>
-- <a href='https://github.com/LissandraRodrigues/fundamentos-nodejs'> Fundamentos do NodeJS </a>
+- [x] Semana de Preparação
+	- [x] <a href='https://www.notion.so/Cronograma-de-estudos-efe2fe58b1c340858acc48d39c9e7268'> Meu artigo sobre Cronograma de estudos </a>
+	- [x] <a href='https://www.notion.so/Ambiente-de-desenvolvimento-73b447b7a5cb4664999fda5cb2ba323f'> Meu artigo sobre Ambiente de Desenvolvimento </a>
+
+- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-01'> Nível 1 </a>
+
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-01/backend'> Módulo - Back-end com NodeJS </a>
+		- [x] <a href='https://github.com/LissandraRodrigues/conceitos-nodejs'> Desafio - Conceitos NodeJS </a>
+		- [x] <a href='https://www.notion.so/Back-end-com-Node-js-2fbb8dc716f84b229b11c0828136d411'> Artigo sobre tudo que aprendi </a>
+		
+	- [X] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-01/frontend'> Módulo - Front-end com ReactJS </a>
+		- [x] <a href='https://github.com/LissandraRodrigues/conceitos-reactjs'> Desafio - Conceitos ReactJS </a>
+		- [x] <a href='https://www.notion.so/Front-end-com-ReactJS-0fa0b7d788d14a3bbc6f93fbf89dcce5'> Artigo sobre tudo que aprendi </a>
+		
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-01/mobile'> Módulo - Mobile com React Native </a>
+		- [x] <a href='https://github.com/LissandraRodrigues/conceitos-react-native'> Desafio - Conceitos React Native </a>
+		- [x] <a href='https://www.notion.so/Mobile-com-React-Native-9ea30f35d6ad45a5a423b1928c94d458'> Artigo sobre tudo que aprendi </a>
+	
+	- [X] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-01/typescript'> Módulo - Typescript </a>
+		- [x] <a href='https://www.notion.so/Typescript-de98ef3d1d9744e6bf20db686fb1f92d'> Artigo sobre tudo que aprendi </a>
+
+- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-02/'> Nível 2 </a>
+
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-02/projeto-node'> Módulo - Primeiro projeto com NodeJS </a>
+		- [x] <a href='https://github.com/LissandraRodrigues/fundamentos-nodejs'> Desafio - Fundamentos do NodeJS </a>
+		- [x] <a href='https://www.notion.so/Fundamentos-do-NodeJS-4928c7f708bf46de81d93573ba969dc3'> Artigo sobre tudo que aprendi </a>
+		
+	- [ ] Módulo - Iniciando back-end do App 
+	
+- [ ] Nível 3 
+
+	- [ ] Módulo - Primeiro projeto com React
+	- [ ] Módulo - Iniciando front-end web
+	- [ ] Módulo - Iniciando aplicativo mobile
+	
+- [ ] Nível 4
+
+	- [ ] Módulo - Arquitetura e testes no NodeJS 
+	- [ ] Módulo - Continuando back-end do App
+	- [ ] Módulo - Finalizando back-end do App 
+	
+- [ ] Nível 5 
+
+	- [ ] Módulo - Finalizando front-end web do App
+	- [ ] Módulo - Finalizando front-end mobile do App
+	- [ ] Módulo - Testes no ReactJS
+
+- [ ] Nível 6
+
+	- [ ] Módulo -Deploy de aplicações NodeJS
+	- [ ] Módulo - Deploy de aplicações ReactJS
+	- [ ] Módulo - Publicação de Apps com React Native
+	
+
 
 ## :running: Projetos extras ##
 
