@@ -62,7 +62,7 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 	- [X] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-01/typescript'> Módulo - Typescript </a>
 		- [x] <a href='https://www.notion.so/Typescript-de98ef3d1d9744e6bf20db686fb1f92d'> Artigo sobre tudo que aprendi </a>
 
-- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-02/'> Nível 2 </a>
+- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-02/'> Nível 2 </a>
 
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-02/projeto-node'> Módulo - Primeiro projeto com NodeJS </a>
 		- [x] <a href='https://github.com/LissandraRodrigues/fundamentos-nodejs'> Desafio - Fundamentos do NodeJS </a>
