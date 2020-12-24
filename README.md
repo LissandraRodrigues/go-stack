@@ -68,12 +68,12 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 		- [x] <a href='https://github.com/LissandraRodrigues/fundamentos-nodejs'> Desafio - Fundamentos do NodeJS </a>
 		- [x] <a href='https://www.notion.so/Fundamentos-do-NodeJS-4928c7f708bf46de81d93573ba969dc3'> Artigo sobre tudo que aprendi </a>
 		
-	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-02/iniciando-back-end'> Módulo - Iniciando back-end do App </a>
-		- [ ] <a href='https://github.com/LissandraRodrigues/database-upload'> Desafio - Database Upload </a> 
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-02/iniciando-back-end'> Módulo - Iniciando back-end do App </a>
+		- [x] <a href='https://github.com/LissandraRodrigues/database-upload'> Desafio - Database Upload </a> 
 	
 - [ ] Nível 3 
 
-	- [ ] Módulo - Primeiro projeto com React
+	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-03/primeiro-projeto-react'> Módulo - Primeiro projeto com React </a>
 	- [ ] Módulo - Iniciando front-end web
 	- [ ] Módulo - Iniciando aplicativo mobile
 	
