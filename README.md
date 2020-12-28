@@ -74,8 +74,11 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 - [ ] Nível 3 
 
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-03/primeiro-projeto-react'> Módulo - Primeiro projeto com React </a>
+		
 		- [x] <a href='https://github.com/LissandraRodrigues/fundamentos-reactjs'> Desafio - Fundamentos ReactJS </a>
+	
 	- [ ] Módulo - Iniciando front-end web
+	
 	- [ ] Módulo - Iniciando aplicativo mobile
 	
 - [ ] Nível 4
