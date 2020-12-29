@@ -103,9 +103,10 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 
 ## :running: Projetos extras ##
 
-Estes projetos foram desenvolvidos através dos conteúdos gratuitos da Rocketseat e neles eu indico onde aprendi sobre.
+Estes projetos foram desenvolvidos através dos conteúdos bônus do Go Stack ou gratuitos da Rocketseat e neles eu indico onde aprendi sobre.
 
 - <a href='https://github.com/LissandraRodrigues/API'> API </a>
+- <a href="https://github.com/LissandraRodrigues/twitter-front-end"> Twitter </a>
 
 ## :rocket: Next Level Week ##
 
