@@ -77,9 +77,9 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 		
 		- [x] <a href='https://github.com/LissandraRodrigues/fundamentos-reactjs'> Desafio - Fundamentos ReactJS </a>
 	
-	- [ ] Módulo - Iniciando front-end web
+	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-03/iniciando-front-end-web'> Módulo - Iniciando front-end web </a>
 	
-	- [ ] Módulo - Iniciando aplicativo mobile
+	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-03/appgobarber'> Módulo - Iniciando aplicativo mobile </a>
 	
 - [ ] Nível 4
 
