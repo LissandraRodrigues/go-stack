@@ -9,7 +9,7 @@
 <h1 align="center"> Minha jornada no GoStack </h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/progress-40%25-brightgreen.svg" alt="PRs Welcome">
+   <img src="https://img.shields.io/badge/progress-50%25-brightgreen.svg" alt="PRs Welcome">
    <img src = "https://img.shields.io/github/issues/LissandraRodrigues/go-stack" />
    <img src = "https://img.shields.io/github/forks/LissandraRodrigues/go-stack" />
    <img src = "https://img.shields.io/github/stars/LissandraRodrigues/go-stack" />
