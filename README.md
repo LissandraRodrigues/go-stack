@@ -71,7 +71,7 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-02/iniciando-back-end'> Módulo - Iniciando back-end do App </a>
 		- [x] <a href='https://github.com/LissandraRodrigues/database-upload'> Desafio - Database Upload </a> 
 	
-- [ ] Nível 3 
+- [x] Nível 3 
 
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-03/primeiro-projeto-react'> Módulo - Primeiro projeto com React </a>
 		
@@ -79,7 +79,9 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 	
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-03/iniciando-front-end-web'> Módulo - Iniciando front-end web </a>
 	
-	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-03/appgobarber'> Módulo - Iniciando aplicativo mobile </a>
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-03/appgobarber'> Módulo - Iniciando aplicativo mobile </a>
+	
+		- [x] <a href='https://github.com/LissandraRodrigues/fundamentos-react-native'> Desafio - Fundamentos React Native </a>
 	
 - [ ] Nível 4
 
