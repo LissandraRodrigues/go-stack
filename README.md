@@ -83,7 +83,7 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 	
 		- [x] <a href='https://github.com/LissandraRodrigues/fundamentos-react-native'> Desafio - Fundamentos React Native </a>
 	
-- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/'> Nível 4
+- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/'> Nível 4 </a>
 
 	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/iniciando-back-end'> Módulo - Arquitetura e testes no NodeJS </a>
 	
