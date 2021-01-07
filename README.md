@@ -83,10 +83,12 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 	
 		- [x] <a href='https://github.com/LissandraRodrigues/fundamentos-react-native'> Desafio - Fundamentos React Native </a>
 	
-- [ ] Nível 4
+- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/'> Nível 4
 
-	- [ ] Módulo - Arquitetura e testes no NodeJS 
+	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/iniciando-back-end'> Módulo - Arquitetura e testes no NodeJS </a>
+	
 	- [ ] Módulo - Continuando back-end do App
+	
 	- [ ] Módulo - Finalizando back-end do App 
 	
 - [ ] Nível 5 
@@ -122,7 +124,7 @@ Projetos desenvolvidos nas edições do evento <a href='https://nextlevelweek.co
 
 - <a href='https://www.notion.so/Go-Stack-14-0dd11467d0d140c4bf2e9bef09ea9fac'> Meus artigos sobre tudo que aprendi no Gostack </a>
 - <a href='https://www.youtube.com/c/RocketSeat/featured'> Canal do Youtube da Rocketseat </a>
-- <a href='https://rocketseat.com.br/starter'> Cursos gratuitos da Rocketseat </a>
+- <a href='https://app.rocketseat.com.br/discover'> Cursos gratuitos da Rocketseat </a>
 - <a href='https://www.notion.so/dev-letter-e59ace6284a044b88fc5a9945ae326de'> Newsletter da Rocketseat </a>
 - <a href='https://blog.rocketseat.com.br/'> Blog da Rocketseat </a>
 - <a href='https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW'> Podcast da Rocketseat </a>
