@@ -85,9 +85,9 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 	
 - [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/'> Nível 4 </a>
 
-	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/iniciando-back-end'> Módulo - Arquitetura e testes no NodeJS </a>
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/arquitetura-e-testes-nodejs'> Módulo - Arquitetura e testes no NodeJS </a>
 	
-	- [ ] Módulo - Continuando back-end do App
+	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/continuando-back-end'> Módulo - Continuando back-end do App </a>
 	
 	- [ ] Módulo - Finalizando back-end do App 
 	
