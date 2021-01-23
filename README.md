@@ -9,7 +9,7 @@
 <h1 align="center"> Minha jornada no GoStack </h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/progress-50%25-brightgreen.svg" alt="PRs Welcome">
+   <img src="https://img.shields.io/badge/progress-70%25-brightgreen.svg" alt="PRs Welcome">
    <img src = "https://img.shields.io/github/issues/LissandraRodrigues/go-stack" />
    <img src = "https://img.shields.io/github/forks/LissandraRodrigues/go-stack" />
    <img src = "https://img.shields.io/github/stars/LissandraRodrigues/go-stack" />
@@ -87,9 +87,9 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/arquitetura-e-testes-nodejs'> Módulo - Arquitetura e testes no NodeJS </a>
 	
-	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/continuando-back-end'> Módulo - Continuando back-end do App </a>
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/continuando-back-end'> Módulo - Continuando back-end do App </a>
 	
-	- [ ] Módulo - Finalizando back-end do App 
+	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/finalizando-back-end'> Módulo - Finalizando back-end do App </a>
 	
 - [ ] Nível 5 
 
