@@ -83,17 +83,17 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 	
 		- [x] <a href='https://github.com/LissandraRodrigues/fundamentos-react-native'> Desafio - Fundamentos React Native </a>
 	
-- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/'> Nível 4 </a>
+- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/'> Nível 4 </a>
 
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/arquitetura-e-testes-nodejs'> Módulo - Arquitetura e testes no NodeJS </a>
 	
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/continuando-back-end'> Módulo - Continuando back-end do App </a>
 	
-	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/finalizando-back-end'> Módulo - Finalizando back-end do App </a>
+	- [x <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/finalizando-back-end'> Módulo - Finalizando back-end do App </a>
 	
 - [ ] Nível 5 
 
-	- [ ] Módulo - Finalizando front-end web do App
+	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/frontend-gobarber'> Módulo - Finalizando front-end web do App </a>
 	- [ ] Módulo - Finalizando front-end mobile do App
 	- [ ] Módulo - Testes no ReactJS
 
