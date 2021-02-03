@@ -89,7 +89,7 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 	
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/continuando-back-end'> Módulo - Continuando back-end do App </a>
 	
-	- [x <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/finalizando-back-end'> Módulo - Finalizando back-end do App </a>
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/finalizando-back-end'> Módulo - Finalizando back-end do App </a>
 	
 - [ ] Nível 5 
 
