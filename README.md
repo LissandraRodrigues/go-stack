@@ -9,7 +9,7 @@
 <h1 align="center"> Minha jornada no GoStack </h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/progress-70%25-brightgreen.svg" alt="PRs Welcome">
+   <img src="https://img.shields.io/badge/progress-85%25-brightgreen.svg" alt="PRs Welcome">
    <img src = "https://img.shields.io/github/issues/LissandraRodrigues/go-stack" />
    <img src = "https://img.shields.io/github/forks/LissandraRodrigues/go-stack" />
    <img src = "https://img.shields.io/github/stars/LissandraRodrigues/go-stack" />
@@ -93,8 +93,8 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 	
 - [ ] Nível 5 
 
-	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/frontend-gobarber'> Módulo - Finalizando front-end web do App </a>
-	- [ ] Módulo - Finalizando front-end mobile do App
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/frontend-gobarber'> Módulo - Finalizando front-end web do App </a>
+	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/mobile-gobarber'> Módulo - Finalizando front-end mobile do App </a>
 	- [ ] Módulo - Testes no ReactJS
 
 - [ ] Nível 6
