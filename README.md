@@ -90,11 +90,21 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/continuando-back-end'> Módulo - Continuando back-end do App </a>
 	
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/finalizando-back-end'> Módulo - Finalizando back-end do App </a>
+		
+		- [x] <a href='https://github.com/LissandraRodrigues/database-relations'> Desafio - Database Relations </a>
+		
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/finalizando-back-end'> Módulo - Finalizando back-end do App </a>
 	
-- [ ] Nível 5 
+- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/'> Nível 5 </a>
 
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/frontend-gobarber'> Módulo - Finalizando front-end web do App </a>
-	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/mobile-gobarber'> Módulo - Finalizando front-end mobile do App </a>
+	
+		- [x] <a href='https://github.com/LissandraRodrigues/go-restaurant-web'> Desafio - GoRestaurant Web </a>
+
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/mobile-gobarber'> Módulo - Finalizando front-end mobile do App </a>
+		
+		- [x] <a href='https://github.com/LissandraRodrigues/go-restaurant-mobile'> GoRestaurant Mobile </a> 
+	
 	- [ ] Módulo - Testes no ReactJS
 
 - [ ] Nível 6
