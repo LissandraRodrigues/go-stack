@@ -105,11 +105,11 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 		
 		- [x] <a href='https://github.com/LissandraRodrigues/go-restaurant-mobile'> GoRestaurant Mobile </a> 
 	
-	- [ ] Módulo - Testes no ReactJS
+	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/testes-reactjs'> Módulo - Testes no ReactJS </a>
 
 - [ ] Nível 6
 
-	- [ ] Módulo -Deploy de aplicações NodeJS
+	- [ ] Módulo - Deploy de aplicações NodeJS
 	- [ ] Módulo - Deploy de aplicações ReactJS
 	- [ ] Módulo - Publicação de Apps com React Native
 	
