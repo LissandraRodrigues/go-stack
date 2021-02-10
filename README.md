@@ -95,7 +95,7 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 		
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-04/finalizando-back-end'> Módulo - Finalizando back-end do App </a>
 	
-- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/'> Nível 5 </a>
+- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/'> Nível 5 </a>
 
 	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/frontend-gobarber'> Módulo - Finalizando front-end web do App </a>
 	
@@ -105,15 +105,13 @@ Além de trazer referências de onde você pode estudar gratuitamente para tamb�
 		
 		- [x] <a href='https://github.com/LissandraRodrigues/go-restaurant-mobile'> GoRestaurant Mobile </a> 
 	
-	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/testes-reactjs'> Módulo - Testes no ReactJS </a>
+	- [x] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-05/testes-reactjs'> Módulo - Testes no ReactJS </a>
 
-- [ ] Nível 6
+- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-06/'> Nível 6 </a>
 
-	- [ ] Módulo - Deploy de aplicações NodeJS
+	- [ ] <a href='https://github.com/LissandraRodrigues/aulas-go-stack/tree/main/nivel-06/backend-gobarber'> Módulo - Deploy de aplicações NodeJS </a>
 	- [ ] Módulo - Deploy de aplicações ReactJS
 	- [ ] Módulo - Publicação de Apps com React Native
-	
-
 
 ## :running: Projetos extras ##
 
